@@ -1,5 +1,6 @@
 # HomeLLC_Assignment
 Downloading the data from -
+
 a. https://fred.stlouisfed.org/series/CSUSHPISA which is going to be our target variable 'housing price index' while using linear regression algorithm.
 
 b. https://fred.stlouisfed.org/series/MEHOINUSA672N which is going to be 'household' column in our datset.
@@ -21,12 +22,21 @@ i. https://fred.stlouisfed.org/series/TTLHH which is going to be 'total number o
 j. https://fred.stlouisfed.org/series/L312051A027NBEA which is goint to be 'housing subsidy' column in our datset.
 
 Uploading the data into colab from downloaded files
+
 Renaming the columns so that column names are easily comprehended.
+
 Merging dataframes of monthly columns separately
+
 Making dataframes of annual columns separately
+
 Now merging annual dataframes.
+
 Merging both the dataframes then cleaning the dataset with columns containing NaN values.
+
 Generating CSV file for data preparation
+
 EDA & Data Visualization of the dataset for easy understanding.
+
 Then proceeding to making Linear Regression model.
+
 Conclusion.
